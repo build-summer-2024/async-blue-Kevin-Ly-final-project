@@ -1,55 +1,56 @@
 # async-blue-Kevin-Ly-final-project
 
-Dataset
-Gym Exercise Dataset
+## Dataset
+Olympic Swimming History (1912 to 2020)
 
-Why did I chose this dataset?
-I chose this dataset because the gym is a big part of my life and I was curious to see what information this dataset held.
+## Why did I chose this dataset?
 
-Progress
- Picked dataset
- Defined 10 questions
- Answered 10 questions using Pandas
- Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
- Prepared presentation slides to present at graduation
-Questions
- Question 1: [Brief description of the task]
+I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analyze how swimming has changed, and how fast the human pinnacle of swimming is. I have a passion for swimming and swam a lot as a kid, so I am especially curious to see the speed of each athlete.
 
-Answer: [Placeholder for answer]
-Visualization: Q1 Visualization
- Question 2: [Brief description of the task]
+## Progress
+- [x] Picked dataset
+- [x] Defined 10 questions
+- [ ] Answered 10 questions using Pandas
+- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [ ] Prepared presentation slides to present at graduation
 
-Answer: [Placeholder for answer]
-Visualization: Q2 Visualization
- Question 3: [Brief description of the task]
+## Progress
+- [ ] Question 1: Who has won the most gold medals?
+  - Answer: The athlete with the most gold medals is Michael Phelps with 13 gold medals.
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q3 Visualization
- Question 4: [Brief description of the task]
+- [ ] Question 2:  What are the world record times for each swimming event?
+  - Answer:
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q4 Visualization
- Question 5: [Brief description of the task]
+- [ ] Question 3: How have the winning times for freestyle events changed over the years?
+  - Answer: 
+  - Visualization: 
 
-Answer: [Placeholder for answer]
-Visualization: Q5 Visualization
- Question 6: [Brief description of the task]
+- [ ] Question 4: How does the average medal time differ between men and women in butterfly events?
+  - Answer: 
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q6 Visualization
- Question 7: [Brief description of the task]
+- [ ] Question 5: Which country has won the most gold medals in swimming across all years?
+  - Answer: USA has the most gold medals in swimming across all years with 36 gold medals, followed by Australia with 9 gold medals.
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q7 Visualization
- Question 8: [Brief description of the task]
+- [ ] Question 6: What is the trend of relay versus individual event participation over the years?
+  - Answer:
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q8 Visualization
- Question 9: [Brief description of the task]
+- [ ] Question 7: What is the average time for each swimming stroke type in the latest Olympics?
+  - Answer: 
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q9 Visualization
- Question 10: [Brief description of the task]
+- [ ] Question 8: Which swimmers have won medals in both individual and relay events?
+  - Answer: 
+  - Visualization:
 
-Answer: [Placeholder for answer]
-Visualization: Q10 Visualization
+- [ ] Question 9: Which Olympic year had the highest number of participating countries in swimming events?
+  - Answer:
+  - Visualization:
+
+- [ ] Question 10: Which country has the fastest average winning time in freestyle events?
+  - Answer: 
+  - Visualization: 
