@@ -3,7 +3,7 @@
 ## Dataset
 Olympic Swimming History (1912 to 2020)
 
-## Why did I chose this dataset?
+## Why did I choose this dataset?
 
 I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analyze how swimming has changed, and how fast the human pinnacle of swimming is. I have a passion for swimming and swam a lot as a kid, so I am especially curious to see the speed of each athlete.
 
@@ -25,7 +25,7 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 
 - [x] Question 3: How have the winning times for freestyle events changed over the years?
   - Answer: The winning times have consistently gotten faster over the years.
-  - Visualization:![Q3 Visualization](Visualizations/ChangeInWinningTimesFreestyle.pngf0dc28ef-6f1d-402f-a181-fb7c30536850.png)
+  - Visualization:![Q3 Visualization](Visualizations/ChangeInWinningTimesFreestyle.png)
 
 - [x] Question 4: How does the average medal time differ between men and women in butterfly events?
   - Answer: The men's times are roughly 2 seconds faster than the women's times.
