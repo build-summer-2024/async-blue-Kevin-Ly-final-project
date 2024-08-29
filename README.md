@@ -14,14 +14,14 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 - [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
-## Progress
+## Questions
 - [x] Question 1: Who has won the most gold medals?
   - Answer: The athlete with the most gold medals is Michael Phelps with 13 gold medals.
   - Visualization:![alt text](ab975959-1c0f-48c2-9318-95d6f4f78886.png)
 
 - [x] Question 2:  What are the world record times for each swimming event?
   - Answer: They range from 1 minute to 8 minutes depending on the length of the event.
-  - Visualization:![alt text](d66c4838-5ba1-48c2-b787-edf1b7a0ba5e.png)
+  - Visualization:![alt text](016d1ba7-5d84-45c4-852e-89722589c0f8.png)
 
 - [x] Question 3: How have the winning times for freestyle events changed over the years?
   - Answer: The winning times have consistently gotten faster over the years.
@@ -33,11 +33,11 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 
 - [x] Question 5: Which country has won the most gold medals in swimming across all years?
   - Answer: USA has the most gold medals in swimming across all years with 240 gold medals, followed by Australia with 61 gold medals.
-  - Visualization:![alt text](6af54ffe-530b-4e2e-9bd9-9ee69e01b2b4.png)
+  - Visualization:![alt text](e1162497-9957-49f5-a2a5-49f798a67d91.png)
 
 - [x] Question 6: How has participation in relays versus individual events changed over time for each gender?
   - Answer: Significantly more people have participated in individual events versus relay events.
-  - Visualization:![alt text](40109b4d-a507-459b-ad5d-83565ed2639f.png)
+  - Visualization:![alt text](f5c7a447-6032-4862-bb4e-ef521905159e.png)
 
 - [x] Question 7: What is the average time for each swimming stroke type in the latest Olympics?
   - Answer: For backstroke, 55.435 seconds. For breastroke, 58.605 seconds. For Butterfly, 53.393 seconds.
@@ -45,12 +45,12 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 
 - [x] Question 8: Which swimming stroke has shown the most improvement in winning times over the decades?
   - Answer: Freestyle has shown the most improvement in winning times.
-  - Visualization:![alt text](8b3afe82-bf4b-4205-8788-096797bc5a16.png)
+  - Visualization:![alt text](e583eaed-8163-4f0e-b7eb-a90bc96fb309.png)
 
 - [x] Question 9: Which Olympic year had the highest number of participating countries in swimming events?
   - Answer: The Olympic year with the highest number of participating countries in swimming events is 2004 with 36 countries.
   - Visualization:![alt text](25ce9b0d-a33b-4918-adeb-60b149511c09.png)
-
+  
 - [x] Question 10: Which country has the fastest average winning time in freestyle events?
   - Answer: The country with the fastest average winning time in freestyle events is Brazil with an average time of 21.30 seconds.
-  - Visualization:![alt text](2b7f338f-f380-44c8-af8d-78c77bcf27b1.png)
+  - Visualization:![alt text](5073b568-bc83-4742-8936-a21905b936f9.png)
