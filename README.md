@@ -17,11 +17,11 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 ## Questions
 - [x] Question 1: Who has won the most gold medals?
   - Answer: The athlete with the most gold medals is Michael Phelps with 13 gold medals.
-  - Visualization:![alt text](ab975959-1c0f-48c2-9318-95d6f4f78886.png)
+  - Visualization:(Visualizations/AthletesWithMostGoldMedals.png)
 
 - [x] Question 2:  What are the world record times for each swimming event?
   - Answer: They range from 1 minute to 8 minutes depending on the length of the event.
-  - Visualization:![alt text](016d1ba7-5d84-45c4-852e-89722589c0f8.png)
+  - Visualization:(Visualizations/WorldRecordTimesDistanceStroke.png)
 
 - [x] Question 3: How have the winning times for freestyle events changed over the years?
   - Answer: The winning times have consistently gotten faster over the years.
@@ -50,7 +50,7 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 - [x] Question 9: Which Olympic year had the highest number of participating countries in swimming events?
   - Answer: The Olympic year with the highest number of participating countries in swimming events is 2004 with 36 countries.
   - Visualization:![alt text](25ce9b0d-a33b-4918-adeb-60b149511c09.png)
-  
+
 - [x] Question 10: Which country has the fastest average winning time in freestyle events?
   - Answer: The country with the fastest average winning time in freestyle events is Brazil with an average time of 21.30 seconds.
   - Visualization:![alt text](5073b568-bc83-4742-8936-a21905b936f9.png)
