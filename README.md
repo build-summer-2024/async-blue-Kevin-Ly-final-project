@@ -10,47 +10,47 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 ## Progress
 - [x] Picked dataset
 - [x] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Progress
-- [ ] Question 1: Who has won the most gold medals?
+- [x] Question 1: Who has won the most gold medals?
   - Answer: The athlete with the most gold medals is Michael Phelps with 13 gold medals.
-  - Visualization:
+  - Visualization:![alt text](ab975959-1c0f-48c2-9318-95d6f4f78886.png)
 
-- [ ] Question 2:  What are the world record times for each swimming event?
-  - Answer:
-  - Visualization:
+- [x] Question 2:  What are the world record times for each swimming event?
+  - Answer: They range from 1 minute to 8 minutes depending on the length of the event.
+  - Visualization:![alt text](d66c4838-5ba1-48c2-b787-edf1b7a0ba5e.png)
 
-- [ ] Question 3: How have the winning times for freestyle events changed over the years?
-  - Answer: 
-  - Visualization: 
+- [x] Question 3: How have the winning times for freestyle events changed over the years?
+  - Answer: The winning times have consistently gotten faster over the years.
+  - Visualization:![alt text](f0dc28ef-6f1d-402f-a181-fb7c30536850.png)
 
-- [ ] Question 4: How does the average medal time differ between men and women in butterfly events?
-  - Answer: 
-  - Visualization:
+- [x] Question 4: How does the average medal time differ between men and women in butterfly events?
+  - Answer: The men's times are roughly 2 seconds faster than the women's times.
+  - Visualization:![alt text](ef4c9c59-5e32-4f4d-ac1f-0cff663231ac.png)
 
-- [ ] Question 5: Which country has won the most gold medals in swimming across all years?
-  - Answer: USA has the most gold medals in swimming across all years with 36 gold medals, followed by Australia with 9 gold medals.
-  - Visualization:
+- [x] Question 5: Which country has won the most gold medals in swimming across all years?
+  - Answer: USA has the most gold medals in swimming across all years with 240 gold medals, followed by Australia with 61 gold medals.
+  - Visualization:![alt text](6af54ffe-530b-4e2e-9bd9-9ee69e01b2b4.png)
 
-- [ ] Question 6: What is the trend of relay versus individual event participation over the years?
-  - Answer:
-  - Visualization:
+- [x] Question 6: How has participation in relays versus individual events changed over time for each gender?
+  - Answer: Significantly more people have participated in individual events versus relay events.
+  - Visualization:![alt text](40109b4d-a507-459b-ad5d-83565ed2639f.png)
 
-- [ ] Question 7: What is the average time for each swimming stroke type in the latest Olympics?
-  - Answer: 
-  - Visualization:
+- [x] Question 7: What is the average time for each swimming stroke type in the latest Olympics?
+  - Answer: For backstroke, 55.435 seconds. For breastroke, 58.605 seconds. For Butterfly, 53.393 seconds.
+  - Visualization:![alt text](317d74f2-e00d-468b-a3af-a603c97287f7.png)
 
-- [ ] Question 8: Which swimmers have won medals in both individual and relay events?
-  - Answer: 
-  - Visualization:
+- [x] Question 8: Which swimming stroke has shown the most improvement in winning times over the decades?
+  - Answer: Freestyle has shown the most improvement in winning times.
+  - Visualization:![alt text](8b3afe82-bf4b-4205-8788-096797bc5a16.png)
 
-- [ ] Question 9: Which Olympic year had the highest number of participating countries in swimming events?
-  - Answer:
-  - Visualization:
+- [x] Question 9: Which Olympic year had the highest number of participating countries in swimming events?
+  - Answer: The Olympic year with the highest number of participating countries in swimming events is 2004 with 36 countries.
+  - Visualization:![alt text](25ce9b0d-a33b-4918-adeb-60b149511c09.png)
 
-- [ ] Question 10: Which country has the fastest average winning time in freestyle events?
-  - Answer: 
-  - Visualization: 
+- [x] Question 10: Which country has the fastest average winning time in freestyle events?
+  - Answer: The country with the fastest average winning time in freestyle events is Brazil with an average time of 21.30 seconds.
+  - Visualization:![alt text](2b7f338f-f380-44c8-af8d-78c77bcf27b1.png)
