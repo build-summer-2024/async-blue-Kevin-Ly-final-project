@@ -17,11 +17,11 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 ## Questions
 - [x] Question 1: Who has won the most gold medals?
   - Answer: The athlete with the most gold medals is Michael Phelps with 13 gold medals.
-  - Visualization:(Visualizations/AthletesWithMostGoldMedals.png)
+  - Visualization: ![](Visualizations/AthletesWithMostGoldMedals.png)
 
 - [x] Question 2:  What are the world record times for each swimming event?
   - Answer: They range from 1 minute to 8 minutes depending on the length of the event.
-  - Visualization:(Visualizations/WorldRecordTimesDistanceStroke.png)
+  - Visualization: (Visualizations/WorldRecordTimesDistanceStroke.png)
 
 - [x] Question 3: How have the winning times for freestyle events changed over the years?
   - Answer: The winning times have consistently gotten faster over the years.
