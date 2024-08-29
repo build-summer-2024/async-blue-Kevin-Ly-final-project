@@ -12,7 +12,7 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 - [x] Defined 10 questions
 - [x] Answered 10 questions using Pandas
 - [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [x] Prepared presentation slides to present at graduation
 
 ## Questions
 - [x] Question 1: Who has won the most gold medals?
