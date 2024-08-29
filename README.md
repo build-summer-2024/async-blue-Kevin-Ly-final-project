@@ -41,7 +41,7 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
 
 - [x] Question 7: What is the average time for each swimming stroke type in the latest Olympics?
   - Answer: For backstroke, 55.435 seconds. For breastroke, 58.605 seconds. For Butterfly, 53.393 seconds.
-  - Visualization:![alt text](317d74f2-e00d-468b-a3af-a603c97287f7.png)
+  - Visualization:![alt text](3204d5dd-f557-4d18-9547-2df06c2b88ea.png)
 
 - [x] Question 8: Which swimming stroke has shown the most improvement in winning times over the decades?
   - Answer: Freestyle has shown the most improvement in winning times.
