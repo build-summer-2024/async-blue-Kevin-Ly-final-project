@@ -5,7 +5,7 @@
 
 ## Why did I choose this dataset?
 
-I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analyze how swimming has changed, and how fast the human pinnacle of swimming is. I have a passion for swimming and swam a lot as a kid, so I am especially curious to see the speed of each athlete.
+I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analyze how swimming has changed, and how fast the human pinnacle of swimming is. I have a passion for swimming and swam a lot as a kid, so I am especially curious to see the speed of each athlete. Watching olympic sports also holds meaning for me as I used to watch them a lot with my older brother. I want to be able to answer any questions I have about olympic swimming, as well as questions that others may have, with this dataset holding olympic swimming history.
 
 ## Progress
 - [x] Picked dataset
