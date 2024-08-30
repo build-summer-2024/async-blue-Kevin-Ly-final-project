@@ -52,5 +52,5 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
   - Visualization:![Q9 Visualization](Visualizations/NumberOfParticipatingCountriesofAllTime.png)
 
 - [x] Question 10: Which country has the fastest average winning time in freestyle events?
-  - Answer: The country with the fastest average winning time in freestyle events is Brazil with an average time of 21.30 seconds.
+  - Answer: The country with the fastest average winning time in freestyle events is Brazil with an average time of 21.30 seconds, followed closely by Denmark with an average time of 24.07 seconds.
   - Visualization:![Q10 Visualization](Visualizations/AverageWinningTimeFreestyleCountry.png)
