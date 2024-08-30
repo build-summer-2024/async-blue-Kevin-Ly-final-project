@@ -20,7 +20,7 @@ I chose the Olympic Swimming History from 1912 to 2020 because I wanted to analy
   - Visualization: ![Q1 Visualization](Visualizations/AthletesWithMostGoldMedals.png)
 
 - [x] Question 2:  What are the world record times for each swimming event?
-  - Answer: They range from 1 minute to 8 minutes depending on the length of the event.
+  - Answer: For the 100 meter distances, the all fall under a minute, and for the freestyle 50 meter distance, they fall under 25 seconds.
   - Visualization: ![Q2 Visualization](Visualizations/WorldRecordTimesDistanceStroke.png)
 
 - [x] Question 3: How have the winning times for freestyle events changed over the years?
